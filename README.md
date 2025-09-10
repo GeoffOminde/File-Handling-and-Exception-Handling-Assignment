@@ -5,7 +5,6 @@ This project combines two essential Python skills:
 1. **File I/O (Input/Output)** — reading from and writing to files.  
 2. **Error Handling** — gracefully managing unexpected issues like missing files or permission errors.
 
-By completing this challenge, you'll learn how to build **robust, fault-tolerant programs** that can handle real-world file operations without crashing.
 
 ---
 
